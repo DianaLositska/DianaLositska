@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @DianaLositska
-- 👀 I’m interested in photo
+- 👀 I’m interested in testing, photography and traveling
 - 🌱 I’m currently learning C and phyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on interesting projects
+- 📫 How to reach me - https://www.linkedin.com/in/diana-lositska-9ab778172/
+- 
 
 <!---
 DianaLositska/DianaLositska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
