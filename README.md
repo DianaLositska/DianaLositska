@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DianaLositska
 - 👀 I’m interested in testing, photography and traveling
-- 🌱 I’m currently learning C and phyton
+- 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me - https://www.linkedin.com/in/diana-lositska-9ab778172/
 - 
